@@ -1,1 +1,1 @@
-# Data
+# Multimodal sensorized glove
