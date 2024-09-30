@@ -11,3 +11,4 @@ recognition, thereby presenting an end-to-end system. The pro-
 posed system achieves a classification accuracy of 99.29% while
 consuming only 59.85 mW and 0.4875 mJ of power and energy
 per inference respectively.
+![System_page-0001](https://github.com/user-attachments/assets/0df7af4f-dfc2-4542-af8f-8336d07f52db)
