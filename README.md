@@ -10,6 +10,4 @@ deployed on a low-cost edge system to perform online object
 recognition, thereby presenting an end-to-end system. The pro-
 posed system achieves a classification accuracy of 99.29% while
 consuming only 59.85 mW and 0.4875 mJ of power and energy
-per inference respectively. Overall, the proposed system seems
-a suitable candidate for various biomedical applications such as
-post-stroke rehabilitation.
+per inference respectively.
