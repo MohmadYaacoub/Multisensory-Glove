@@ -1,4 +1,4 @@
-# Multimodal Sensorized Glove
+# Multisensory Glove
 This work proposes a low-cost multisensory glove
 (≈ 140 USD) equipped with commercial piezoresistive force
 sensors (FSRs) and inertial measurement units (IMUs) for object
