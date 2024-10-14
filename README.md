@@ -13,6 +13,7 @@ per inference respectively.
 
 # Daily life objects
 The following image represents a photograph of the 28 daily life objects used in this experiment.
+
 <img src="https://github.com/user-attachments/assets/7e95b9d1-6913-4d6f-ae8b-628f5724284c" alt="Objects" width="300">
 
 
