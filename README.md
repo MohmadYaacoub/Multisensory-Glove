@@ -10,6 +10,11 @@ deployed on a low-cost edge system to perform online object
 recognition, thereby presenting an end-to-end system. The proposed system achieves a classification accuracy of 99.29% while
 consuming only 59.85 mW and 0.4875 mJ of power and energy
 per inference respectively.
+
+# Daily life objects
+[Objects.pdf](https://github.com/user-attachments/files/17366205/Objects.pdf)
+
+
 # End-to-End System
 ![System_page-0001](https://github.com/user-attachments/assets/0df7af4f-dfc2-4542-af8f-8336d07f52db)
 The figure present the end-to-end system for object recognition: (a) Front and back view of the glove developed for the experiment. (b) Data acquisition board and the
