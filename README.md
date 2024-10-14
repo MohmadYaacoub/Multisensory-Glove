@@ -23,3 +23,6 @@ The following image represents a photograph of the 28 daily life objects used in
 The figure present the end-to-end system for object recognition: (a) Front and back view of the glove developed for the experiment. (b) Data acquisition board and the
 LabView GUI for data collection. (c) An example of collected data, followed by the architecture of the 1D-CNN used in this work for identifying objects and
 the board used for performing real-time inference.
+
+# To be published 
+This paper entitled "Multisensory Wearable Glove for Object Recognition Based Embedded Machine Learning", has been accepted at the 2024 31st IEEE International Conference on Electronics, Circuits and Systems to be held in Nancy, France from November 18-20.
