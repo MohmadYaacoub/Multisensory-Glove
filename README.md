@@ -11,7 +11,7 @@ recognition, thereby presenting an end-to-end system. The proposed system achiev
 consuming only 59.85 mW and 0.4875 mJ of power and energy
 per inference respectively.
 
-# Daily life objects
+# Daily Life Objects
 The following image represents a photograph of the 28 daily life objects used in this experiment.
 
 <img src="https://github.com/user-attachments/assets/7e95b9d1-6913-4d6f-ae8b-628f5724284c" alt="Objects" width="300">
