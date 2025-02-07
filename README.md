@@ -24,5 +24,14 @@ The figure present the end-to-end system for object recognition: (a) Front and b
 LabView GUI for data collection. (c) An example of collected data, followed by the architecture of the 1D-CNN used in this work for identifying objects and
 the board used for performing real-time inference.
 
-# To be published 
-This paper entitled "Multisensory Wearable Glove for Object Recognition Based Embedded Machine Learning", has been accepted at the 2024 31st IEEE International Conference on Electronics, Circuits and Systems to be held in Nancy, France from November 18-20.
+# Ciation
+@INPROCEEDINGS{10848876,
+  author={Yaacoub, Mohamad and Al Haj Ali, Haydar and Gianoglio, Christian and Valle, Maurizio and Ibrahim, Ali},
+  booktitle={2024 31st IEEE International Conference on Electronics, Circuits and Systems (ICECS)}, 
+  title={Multisensory Wearable Glove for Object Recognition Based Embedded Machine Learning}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-4},
+  keywords={Performance evaluation;Accuracy;Measurement units;Machine learning;Grasping;Sensor fusion;Real-time systems;Object recognition;Signal analysis;Piezoresistance;Wearable glove;object recognition;embedded machine learning},
+  doi={10.1109/ICECS61496.2024.10848876}}
