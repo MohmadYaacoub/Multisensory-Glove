@@ -24,6 +24,13 @@ The figure present the end-to-end system for object recognition: (a) Front and b
 LabView GUI for data collection. (c) An example of collected data, followed by the architecture of the 1D-CNN used in this work for identifying objects and
 the board used for performing real-time inference.
 
+## Execution Flow
+/YourProject/
+│── datapreparation.py
+│── elaboration_class.py
+│── main.py
+│── README.md
+
 ## Citation
 If you use our work, please cite:
 
