@@ -84,8 +84,8 @@ class CNN1D:
         best_model = tf.keras.models.load_model(f"model_{best_f}_{best_k}.h5")
 
         def representative_dataset():
-            for data in self.X_train.rebatch(1).take(150):
-                yield [tf.dtypes.cast(data[0], tf.float32)]
+            for data in tf.data.Dataset.from_tensor_slices(self.X_train).batch(1).take(100):
+                yield [tf.dtypes.cast(data, tf.float32)]
 
         converter = tf.lite.TFLiteConverter.from_keras_model(best_model)
         converter.optimizations = [tf.lite.Optimize.DEFAULT]
@@ -128,7 +128,7 @@ class CNN1D:
         tflite_file = f"model_{best_f}_{best_k}.tflite"
         test_indices = range(self.X_test.shape[0])
         predictions = run_tflite_model(tflite_file, test_indices)
-        pred_labels = tf.keras.utils.to_categorical(predictions, num_classes=28)
-
-        accuracy = accuracy_score(self.y_test, pred_labels)
-        print('Accuracy:', accuracy)
+        Y_test = np.argmax(self.y_test, axis=1)
+        
+        accuracy = accuracy_score(Y_test, predictions)
+        print('Accuracy Int8:', accuracy)
