@@ -27,13 +27,12 @@ the board used for performing real-time inference.
 ## Citation
 If you use our work, please cite:
 
+```bibtex
 @INPROCEEDINGS{10848876,
   author={Yaacoub, Mohamad and Al Haj Ali, Haydar and Gianoglio, Christian and Valle, Maurizio and Ibrahim, Ali},
   booktitle={2024 31st IEEE International Conference on Electronics, Circuits and Systems (ICECS)}, 
   title={Multisensory Wearable Glove for Object Recognition Based Embedded Machine Learning}, 
   year={2024},
-  volume={},
-  number={},
   pages={1-4},
-  keywords={Performance evaluation;Accuracy;Measurement units;Machine learning;Grasping;Sensor fusion;Real-time systems;Object recognition;Signal analysis;Piezoresistance;Wearable glove;object recognition;embedded machine learning},
-  doi={10.1109/ICECS61496.2024.10848876}}
+  doi={10.1109/ICECS61496.2024.10848876}
+}
