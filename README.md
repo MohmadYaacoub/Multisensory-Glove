@@ -24,7 +24,9 @@ The figure present the end-to-end system for object recognition: (a) Front and b
 LabView GUI for data collection. (c) An example of collected data, followed by the architecture of the 1D-CNN used in this work for identifying objects and
 the board used for performing real-time inference.
 
-# Ciation
+## Citation
+If you use our work, please cite:
+
 @INPROCEEDINGS{10848876,
   author={Yaacoub, Mohamad and Al Haj Ali, Haydar and Gianoglio, Christian and Valle, Maurizio and Ibrahim, Ali},
   booktitle={2024 31st IEEE International Conference on Electronics, Circuits and Systems (ICECS)}, 
