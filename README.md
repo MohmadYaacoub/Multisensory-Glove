@@ -1,11 +1,11 @@
-## Repository structure
-   Multisensory Glove
-   ├── Python Sripts
-   │   ├── DataPreparation.py
-   │   ├── ElabortionClass.py
-   │   └── Main.py
-   ├── README.md
-   ├── requirements.txt
+##Multisensory Glove
+├── Python Scripts
+│   ├── DataPreparation.py
+│   ├── ElaborationClass.py
+│   └── Main.py
+├── README.md
+├── requirements.txt
+
  
 ## Multisensory Glove
 This work proposes a low-cost multisensory glove
