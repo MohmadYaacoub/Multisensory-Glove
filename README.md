@@ -1,5 +1,6 @@
-## Multisensory Glove
+## Repsitory Structure
 ```
+Multisensory Glove
 ├── Python Scripts
 │   ├── DataPreparation.py
 │   ├── ElaborationClass.py
