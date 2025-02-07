@@ -28,7 +28,7 @@ the board used for performing real-time inference.
 If you use our work, please cite:
 
 ```bibtex
-@INPROCEEDINGS{10848876,
+@inproceedings{10848876,
   author={Yaacoub, Mohamad and Al Haj Ali, Haydar and Gianoglio, Christian and Valle, Maurizio and Ibrahim, Ali},
   booktitle={2024 31st IEEE International Conference on Electronics, Circuits and Systems (ICECS)}, 
   title={Multisensory Wearable Glove for Object Recognition Based Embedded Machine Learning}, 
