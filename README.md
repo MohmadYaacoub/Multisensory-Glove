@@ -28,11 +28,11 @@ the board used for performing real-time inference.
 If you use our work, please cite:
 
 ```bibtex
-@inproceedings{10848876,
-  author={Yaacoub, Mohamad and Al Haj Ali, Haydar and Gianoglio, Christian and Valle, Maurizio and Ibrahim, Ali},
-  booktitle={2024 31st IEEE International Conference on Electronics, Circuits and Systems (ICECS)}, 
-  title={Multisensory Wearable Glove for Object Recognition Based Embedded Machine Learning}, 
+@inproceedings{yaacoub2024multisensory,
+  title={Multisensory wearable glove for object recognition based embedded machine learning},
+  author={Yaacoub, Mohamad and Ali, Haydar Al Haj and Gianoglio, Christian and Valle, Maurizio and Ibrahim, Ali},
+  booktitle={2024 31st IEEE International Conference on Electronics, Circuits and Systems (ICECS)},
+  pages={1--4},
   year={2024},
-  pages={1-4},
-  doi={10.1109/ICECS61496.2024.10848876}
+  organization={IEEE}
 }
