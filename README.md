@@ -1,3 +1,12 @@
+## Repository structure
+   Multisensory Glove
+   ├── Python Sripts
+   │   ├── DataPreparation.py
+   │   ├── ElabortionClass.py
+   │   └── Main.py
+   ├── README.md
+   ├── requirements.txt
+ 
 # Multisensory Glove
 This work proposes a low-cost multisensory glove
 (≈ 140 USD) equipped with commercial piezoresistive force
