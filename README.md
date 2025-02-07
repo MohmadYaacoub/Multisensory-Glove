@@ -6,7 +6,7 @@
 │   └── Main.py
 ├── README.md
 ├── requirements.txt
-
+```
  
 ## Multisensory Glove
 This work proposes a low-cost multisensory glove
