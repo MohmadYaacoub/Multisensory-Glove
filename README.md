@@ -33,11 +33,6 @@ The figure present the end-to-end system for object recognition: (a) Front and b
 LabView GUI for data collection. (c) An example of collected data, followed by the architecture of the 1D-CNN used in this work for identifying objects and
 the board used for performing real-time inference.
 
-## Project Root
-- **`datapreparation.py`**: Prepares and preprocesses the data for further processing.
-- **`elaboration_class.py`**: Contains the main processing logic for the data.
-- **`main.py`**: The main script that executes the project workflow.
-- **`README.md`**: This documentation file.
 
 ## Citation
 If you use our work, please cite:
