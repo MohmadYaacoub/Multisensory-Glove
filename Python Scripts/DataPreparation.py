@@ -39,8 +39,8 @@ class Dataset:
                     df = pd.read_csv(file_path, header=None)
                     """
                     To extract the fusion data df_array = df.iloc[1:51, :35].values 
-                    To extact only FSR data change to df_array = df.iloc[1:51, :5].values
-                    To extract only IMU data change to df_array = df.iloc[1:51, 5:35].valuest
+                    To extact only FSR data change to df_array = df.iloc[1:51, 30:35].values
+                    To extract only IMU data change to df_array = df.iloc[1:51, :30].valuest
                     """
                     df_array = df.iloc[1:51, :35].values  # Extract specific part of the dataframe
                     self.X.append(df_array)
